@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+motor                   
+pymongo
+langchain
+langchain-google-genai
+langchain-mongodb
+langchain-community
+langchain-text-splitters
+pypdf
+tiktoken
+python-multipart
